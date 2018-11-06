@@ -10,5 +10,5 @@ This page is supported by:
 - UChicago Library
 - Sloan foundation
 
-It was inspired by [LHCb starterkit]().
+It was inspired by the [LHCb starterkit](https://lhcb.github.io/starterkit/).
 
