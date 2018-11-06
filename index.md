@@ -59,15 +59,15 @@ This is a starting point for students and reserach associates to learn about dat
 <h1 align="center">Group tutorial</h1><hr> 
 <table border="0">
   <tr>
-    <td align="center"><img src="/images/CIL.jpg" height="100">
+    <td align="center"><img src="{{ site.baseurl }}images/CIL.jpg" height="100">
   </td>
   </tr>
   <tr>
-    <td align="center"><img src="/images/EPIC-India.jpg" height="100">
+    <td align="center"><img src="{{ site.baseurl }}images/EPIC-India.jpg" height="100">
   </td>
   </tr>
   <tr>
-    <td align="center"><img src="/images/UrbanLabs.png" height="100">
+    <td align="center"><img src="{{ site.baseurl }}images/UrbanLabs.png" height="100">
   </td>
   </tr>
 </table>

@@ -18,8 +18,8 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is a starting point for students and reserach associates to learn
   about data analyses at EPIC. 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/epic-starterkit.github.io/" # the subpath of your site, e.g. /blog
+url: "https://epic-uchicago.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:  UChiEnergy 
 github_username: epic-uchicago 
 
@@ -28,6 +28,9 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  
+include:
+  - "images"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
