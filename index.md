@@ -44,12 +44,12 @@ This is a starting point for students and reserach associates to learn about dat
   </tr>
   <tr>
     <td align="center">
-    <a href="" style="width:80%" class="myButton">arcGIS</a>
+    <a href="http://learn.arcgis.com/en/" style="width:80%" class="myButton">arcGIS</a>
     </td>
   </tr>
   <tr>
     <td align="center">
-    <a href="" style="width:80%" class="myButton">Julia</a>
+    <a href="https://julialang.org/learning/" style="width:80%" class="myButton">Julia</a>
     </td>
   </tr>
 </table>
