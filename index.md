@@ -59,7 +59,7 @@ This is a starting point for students and reserach associates to learn about dat
 <h1 align="center">Group tutorial</h1><hr> 
 <table border="0">
   <tr>
-    <td align="center"><img src="{{ site.baseurl }}images/CIL.jpg" height="100">
+    <td align="center"><a href="https://epic-uchicago.github.io/cil.github.io/"><img src="{{ site.baseurl }}images/CIL.jpg" height="100"></a>
   </td>
   </tr>
   <tr>
@@ -67,7 +67,7 @@ This is a starting point for students and reserach associates to learn about dat
   </td>
   </tr>
   <tr>
-    <td align="center"><img src="{{ site.baseurl }}images/UrbanLabs.png" height="100">
+    <td align="center"><a href="https://epic-uchicago.github.io/urban-labs.github.io/"><img src="{{ site.baseurl }}images/UrbanLabs.png" height="100"></a>
   </td>
   </tr>
 </table>
