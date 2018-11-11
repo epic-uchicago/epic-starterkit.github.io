@@ -78,6 +78,8 @@ This is a starting point for students and reserach associates to learn about dat
   <tr>
     <td align="center">
     <a href="https://epic-uchicago.github.io/ra-manual.github.io/" style="width:80%" class="myButton">Ryan's RA manual</a></td>
+    <td align="center">
+    <a href="https://epic-uchicago.github.io/events.github.io/" style="width:80%" class="myButton">RA orientation events</a></td>
   </tr>
 </table>
 
